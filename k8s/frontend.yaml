@@ -15,7 +15,7 @@ spec:
       containers:
         - name: frontend
           # 여러분의 frontend image 주소를 입력해주세요.
-          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_5ff8aa7566ae
+          image: krmp-d2hub-idock.9rum.cc/dev-test/repo_b2dd5aa9ad8d
 ---
 apiVersion: v1
 kind: Service
